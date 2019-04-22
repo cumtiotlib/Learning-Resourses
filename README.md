@@ -3,8 +3,8 @@
 
 ---
 ### 我常用的一些工具和网站
-![pic1](https://github.com/liuqidev/Learning-Resourses/blob/master/pic1.JPG?raw=true)
-![pic2](https://github.com/liuqidev/Learning-Resourses/blob/master/pic2.JPG?raw=true)
+![pic1](https://github.com/cumtiotlib/Learning-Resourses/blob/master/pic1.JPG?raw=true)
+![pic2](https://github.com/cumtiotlib/Learning-Resourses/blob/master/pic2.JPG?raw=true)
 
 ---
 ### 常用网站
